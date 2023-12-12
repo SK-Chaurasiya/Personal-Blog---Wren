@@ -19,9 +19,10 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Wren Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![desktop](https://github.com/SK-Chaurasiya/Personal-Blog---Wren/assets/97239651/f609daca-5455-45e2-8543-456682878d9b)
+
 
 ### Prerequisites
 
